@@ -3,7 +3,7 @@
 # HELLOW Microverse
 
 > This project is to set up github supository and set up linters on the hellow world project.
-the Heloow Microverse project invloves hellow.html file to display Hellow Microverse and a css file
+the Hellow Microverse project invloves hellow.html file to display Hellow Microverse and a css file
 
 
 ## Built With
